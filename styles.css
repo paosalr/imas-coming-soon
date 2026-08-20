@@ -31,7 +31,7 @@
   .blob-purple{
     width: 62vw; height: 62vw; max-width: 780px; max-height: 780px;
     top: -14vw; right: -10vw;
-    background: #f4f5fa;
+    background: var(--color-brand-purple);
     border-radius: 42% 58% 65% 35% / 45% 40% 60% 55%;
     opacity: 0.9;
   }
@@ -39,7 +39,7 @@
   .blob-blue{
     width: 55vw; height: 55vw; max-width: 680px; max-height: 680px;
     bottom: -16vw; left: -12vw;
-    background: #f4f5fa;
+    background: var(--color-brand-blue);
     border-radius: 55% 45% 38% 62% / 60% 50% 50% 40%;
     opacity: 0.9;
   }
