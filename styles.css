@@ -44,9 +44,9 @@ html,body{
 }
 
 .eyebrow{
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 800;
-  letter-spacing: 0.5em;
+  letter-spacing: 0.01em;
   color: #0000FF;
   text-transform: none;
   margin-bottom: 18px;
